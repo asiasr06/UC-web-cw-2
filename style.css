@@ -1,0 +1,12 @@
+.card{
+    background-color:blueviolet;
+    width:500px;
+    text-align: center;
+    }
+#dish-name {
+    color: white;
+}
+body{
+    outline-style: dashed;
+    }
+ 
